@@ -1,22 +1,14 @@
 # <Horiseon>
 
+## Deployed link to application
+
+
 ## Description
 
 - My motivation for this project was to use the tools I learned from class and apply them to the website
 - I did this project to get more familiar with html and css coding.
 - This progect was designed to change html div to semantics.
 - I learned how to group similar element together and comment out codes
-
-## Table of Contents (Optional)
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-N/A
 
 ## Usage
 
@@ -26,22 +18,5 @@ This website was created to help users increase their visibility by optimizing t
 
 ## Credits
 
-n/a
+Kalina Boksa
 
-## License
-
-n/a
-
-## Badges
-
-n/a
-
-## Features
-
-N/A
-
-## How to Contribute
-
-n/a
-
-## Tests
