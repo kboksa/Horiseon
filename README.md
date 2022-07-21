@@ -2,6 +2,7 @@
 
 ## Deployed link to application
 
+https://kboksa.github.io/Horiseon/
 
 ## Description
 
